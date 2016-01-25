@@ -1,8 +1,10 @@
 <?php
+
 /* 
 Some scraper sites are created to make money by using advertising programs. In such case, they are called Made for AdSense sites or MFA. This derogatory term refers to websites that have no redeeming value except to lure visitors to the website for the sole purpose of clicking on advertisements.[1]
 
 Made for AdSense sites are considered sites that are spamming search engines and diluting the search results by providing surfers with less-than-satisfactory search results. The scraped content is considered redundant by the public to that which would be shown by the search engine under normal circumstances, had no MFA website been found in the listings.
+
 
 */
  
