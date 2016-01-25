@@ -5,7 +5,7 @@ Some scraper sites are created to make money by using advertising programs. In s
 
 Made for AdSense sites are considered sites that are spamming search engines and diluting the search results by providing surfers with less-than-satisfactory search results. The scraped content is considered redundant by the public to that which would be shown by the search engine under normal circumstances, had no MFA website been found in the listings.
 
-
+by author:adc
 */
  
 define('DB_NAME', 'seellleertools');
